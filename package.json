@@ -3,6 +3,7 @@
     "demo": "node hello.js"
   },
   "dependencies": {
+    "js-yaml": "^3.12.0",
     "lodash": "^4.17.10"
   }
 }
